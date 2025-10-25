@@ -1,1 +1,1 @@
-REG = 0
+REG (Main) = 0
