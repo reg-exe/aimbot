@@ -1,3 +1,1 @@
 REG (Main) = 0
-mubin = 1
-NIGHTER = 0
