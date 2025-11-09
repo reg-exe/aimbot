@@ -1,2 +1,2 @@
 REG (Main) = 0
-Mubin = 0
+Mubin = 1
